@@ -40,7 +40,7 @@ INSTALLED_APPS = [
     'posts',
 
     #third-party apps
-    'restframework',
+    'rest_framework',
 ]
 
 MIDDLEWARE = [
